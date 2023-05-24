@@ -9,3 +9,7 @@ Owncloud Install Steps
 localhost
 username: root
 password: 1234
+
+
+Install and configure Google App Engine 
+curl https://sdk.cloud.google.com | bash
